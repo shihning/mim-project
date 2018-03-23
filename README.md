@@ -1,1 +1,1 @@
-# mimi-test-project
+# mimi project
